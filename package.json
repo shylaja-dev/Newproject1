@@ -1,0 +1,22 @@
+{
+  "name": "newproject1",
+  "version": "1.0.0",
+  "description": "Newproject1",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shylaja-dev/Newproject1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shylaja-dev/Newproject1/issues"
+  },
+  "homepage": "https://github.com/shylaja-dev/Newproject1#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  }
+}
